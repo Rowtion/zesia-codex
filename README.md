@@ -44,3 +44,9 @@ npm run package
 The pinned `@zesia/runtime` release supplies the shared local workflow and official CLI transport. CI builds and tests this repository independently; release publication is a manual workflow on `main`. Never overwrite a published version. See [LICENSE](LICENSE) and preserve upstream notices in the distributed Skill.
 
 [Host Skill documentation](https://developers.openai.com/codex/skills)
+
+## Managed updates
+
+Repeat installation reuses only an exact adapter version, runtime version and verified content identity. After reviewing a managed update, run the new extracted installer with `--upgrade`. Modified or unmanaged files are preserved. A legacy installation without verifiable version/content metadata returns an explicit migration error; review and move it aside before installing, rather than treating it as current. Project-internal directory symlinks are rejected before writes.
+
+Upgrades retain the previous installation under the project’s `.zesia/skill-backups/` directory and return its path. Review backups before removing them. Legacy installations without verifiable identity must be reviewed and moved aside before reinstalling; `--upgrade` never overwrites unverifiable or user-edited content.
