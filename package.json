@@ -1,6 +1,6 @@
 {
   "name": "@zesia/codex",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "license": "UNLICENSED",
@@ -14,7 +14,7 @@
     "package": "node scripts/package.mjs"
   },
   "dependencies": {
-    "@zesia/runtime": "https://github.com/Rowtion/zesia-skill/releases/download/v0.2.1/zesia-runtime-0.2.1.tgz"
+    "@zesia/runtime": "https://github.com/Rowtion/zesia-skill/releases/download/v0.3.0/zesia-runtime-0.3.0.tgz"
   },
   "devDependencies": {
     "esbuild": "0.25.12"

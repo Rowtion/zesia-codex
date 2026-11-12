@@ -2,10 +2,11 @@
   "format": "zesia.host-adapter.v1",
   "id": "codex",
   "requester": "Codex",
-  "version": "0.1.1",
-  "runtimeVersion": "0.2.1",
+  "version": "0.2.0",
+  "runtimeVersion": "0.3.0",
   "skillDirectory": ".agents/skills",
   "entry": "skill-and-a2a-cli",
   "nativeUI": false,
-  "documentation": "https://developers.openai.com/codex/skills"
+  "documentation": "https://developers.openai.com/codex/skills",
+  "reviewSurface": "local-browser"
 }
