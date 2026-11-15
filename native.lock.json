@@ -1,38 +1,38 @@
 {
   "format": "zesia.native-lock.v1",
   "repository": "https://github.com/Rowtion/zesia-skill",
-  "version": "0.4.1",
-  "sourceSha": "dfe22ff50192ab2fd18987d32a530e5cdc787a4c",
+  "version": "0.4.2",
+  "sourceSha": "7d229c2c9325ea4a928ec36e543f05b62d8cb116",
   "assets": [
     {
       "platform": "darwin-arm64",
-      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.1/zesia-runtime-0.4.1-darwin-arm64.zip",
-      "sha256": "694981a1784da4fb06f3dd81d4ea9b76304db178c95a2faa9e54bf594b3947b9",
-      "bytes": 30119195
+      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.2/zesia-runtime-0.4.2-darwin-arm64.zip",
+      "sha256": "1ccb2f884bae3906f152ffe5f7dd2857c692d12908f8677a23b45dacbff19a12",
+      "bytes": 30120491
     },
     {
       "platform": "darwin-x64",
-      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.1/zesia-runtime-0.4.1-darwin-x64.zip",
-      "sha256": "b54a9bc710b177f33e538cfc76029af482e9c5327b95ab934d767fd864fadc58",
-      "bytes": 33069025
+      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.2/zesia-runtime-0.4.2-darwin-x64.zip",
+      "sha256": "b245fa401761c51ca123ddcdff3a0d5324e257626b585f92895dbe2238cc919e",
+      "bytes": 33070841
     },
     {
       "platform": "linux-arm64",
-      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.1/zesia-runtime-0.4.1-linux-arm64.zip",
-      "sha256": "96cbe31c7015b1d11ccbaaa8a883b1d62eafa109df8cdc4356d0a11c4186c0f0",
-      "bytes": 45567270
+      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.2/zesia-runtime-0.4.2-linux-arm64.zip",
+      "sha256": "4769570bfd5d4b26f45a4be41c81cf17ea5c7275900e4ca7620333dd59ac68f3",
+      "bytes": 45568545
     },
     {
       "platform": "linux-x64",
-      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.1/zesia-runtime-0.4.1-linux-x64.zip",
-      "sha256": "5a5cab0a80b5d09f074b696ad8c70740a73fc53891dbd0c4664d54dc6db1533f",
-      "bytes": 46529040
+      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.2/zesia-runtime-0.4.2-linux-x64.zip",
+      "sha256": "3555409cc0d98eae071369cee95cb5df8e4a44ccecd963abae59e743acfd5b45",
+      "bytes": 46530348
     },
     {
       "platform": "win32-x64",
-      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.1/zesia-runtime-0.4.1-win32-x64.zip",
-      "sha256": "5b68a90722eb579a19a2fe08fbb577c76b7dac101c2b8719b118e1b8dc0e0541",
-      "bytes": 49591261
+      "url": "https://github.com/Rowtion/zesia-skill/releases/download/v0.4.2/zesia-runtime-0.4.2-win32-x64.zip",
+      "sha256": "d9dea635d2494b652205ba6198b1b8faa13d2cb41e3d95f0256741c95c81889f",
+      "bytes": 49592442
     }
   ]
 }
